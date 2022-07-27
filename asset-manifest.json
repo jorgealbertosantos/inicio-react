@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/inicio-react/static/css/main.59c82498.css",
+    "main.js": "/inicio-react/static/js/main.06b1e360.js",
+    "index.html": "/inicio-react/index.html",
+    "main.59c82498.css.map": "/inicio-react/static/css/main.59c82498.css.map",
+    "main.06b1e360.js.map": "/inicio-react/static/js/main.06b1e360.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59c82498.css",
+    "static/js/main.06b1e360.js"
+  ]
+}
